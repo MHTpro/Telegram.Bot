@@ -15,7 +15,6 @@ ids = list(id)
 
 msg = input('enter message: ')
 count = int(input('how many times: '))
-
 time.sleep(2)
 
 #send_msg
