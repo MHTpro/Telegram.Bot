@@ -29,7 +29,7 @@ for all in ids:
         send_button.click()
 
 #quit_browser
-time.sleep(5)
+time.sleep(10)
 driver.close()
 
 #end
