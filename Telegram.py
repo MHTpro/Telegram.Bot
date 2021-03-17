@@ -9,7 +9,7 @@ driver.get(r'https://web.telegram.org/')
 time.sleep(3)
 
 #users
-ids = input('enter ids of your contacs with comma: ')
+ids = input('enter ids of your contacts with comma: ')
 id =ids.split(',')
 ids = list(id) 
 
